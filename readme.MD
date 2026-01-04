@@ -4,5 +4,5 @@
 * light oil
 ## Karam Dosa
 * dosa batter
-* karam
+* red karam
 * oil
